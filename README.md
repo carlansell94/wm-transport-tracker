@@ -24,9 +24,9 @@ Application storage is implemented using MMKV.
 
 ## Requirements
 
-Before you can use this application, you will need to generate API keys for the TfWM API. These keys should be added to the file ```src/api/auth.js```.
+Before you can use this application, you will need to generate API keys for the [TfWM API](https://api-portal.tfwm.org.uk). These keys should be added to the file ```src/api/auth.js```.
 
-In addition, mapping functionality requires a Google Maps API key. The key should be added to ```android/app/src/main/AndroidManifest.xml```, to the currently empty ```android:value``` parameter.
+In addition, mapping functionality requires a Google Maps API key. For Android, the key should be added to ```android/app/src/main/AndroidManifest.xml```. Add the key to the currently empty ```android:value``` parameter.
 
 ## How To Use
 
