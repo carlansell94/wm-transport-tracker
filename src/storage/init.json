@@ -1,0 +1,12 @@
+{
+    "storageVersion": 1,
+    "theme": {
+            "title": "Theme",
+            "options": {
+                "light": "Light",
+                "dark": "Dark",
+                "system": "System"
+            },
+            "current": "system"
+    }
+}
