@@ -28,6 +28,8 @@ Before you can use this application, you will need to generate API keys for the 
 
 In addition, mapping functionality requires a Google Maps API key. For Android, the key should be added to ```android/app/src/main/AndroidManifest.xml```. Add the key to the currently empty ```android:value``` parameter.
 
+This app is configured to use the new React Native architecture, and requires React Native 0.74 or above. For older versions, check out commits prior to the 0.74 updates.
+
 ## How To Use
 
 Once the requirements are fulfilled, the application can be executed in debug mode like any other React Native application.
