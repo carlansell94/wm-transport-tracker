@@ -10,6 +10,8 @@
       android:roundIcon="@mipmap/ic_launcher_round"
       android:allowBackup="false"
       android:theme="@style/AppTheme"
+      android:supportsRtl="true"
+      android:hardwareAccelerated="true"
       android:usesCleartextTraffic="true">
       <activity
         android:name=".MainActivity"
